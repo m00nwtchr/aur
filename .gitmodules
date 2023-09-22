@@ -1,6 +1,9 @@
 [submodule "alvr"]
 	path = alvr
-	url = git+ssh://aur@aur.archlinux.org/alvr.git
+	url = ssh+git://aur@aur.archlinux.org/alvr.git
 [submodule "alvr-git"]
 	path = alvr-git
-	url = git+ssh://aur@aur.archlinux.org/alvr-git.git
+	url = ssh+git://aur@aur.archlinux.org/alvr-git.git
+[submodule "apriltag-trackers-git"]
+	path = apriltag-trackers-git
+	url = ssh+git://aur@aur.archlinux.org/apriltag-trackers-git.git
