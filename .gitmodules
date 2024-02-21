@@ -7,3 +7,6 @@
 [submodule "apriltag-trackers-git"]
 	path = apriltag-trackers-git
 	url = ssh+git://aur@aur.archlinux.org/apriltag-trackers-git.git
+[submodule "alvr-nvidia"]
+	path = alvr-nvidia
+	url = ssh+git://aur@aur.archlinux.org/alvr-nvidia.git
